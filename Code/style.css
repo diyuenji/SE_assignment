@@ -1,0 +1,254 @@
+:root {
+  --dl-color-gray-25: rgba(251, 252, 252, 1);
+  --dl-color-pink-50: rgba(253, 241, 249, 1);
+  --dl-color-gray-100: rgba(242, 243, 246, 1);
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-color-pink-700: rgba(192, 21, 115, 1);
+  --dl-color-gray-5001: rgba(102, 112, 132, 1);
+  --dl-color-gray-5002: rgba(102, 112, 132, 1);
+  --dl-color-gray-5003: rgba(102, 112, 132, 1);
+  --dl-color-gray-7001: rgba(52, 64, 83, 1);
+  --dl-color-gray-9001: rgba(15, 23, 40, 1);
+  --dl-color-orange-50: rgba(255, 245, 237, 1);
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-color-orange-700: rgba(195, 50, 10, 1);
+  --dl-color-primary-50: rgba(249, 245, 255, 1);
+  --dl-color-success-50: rgba(235, 253, 242, 1);
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-color-success-7001: rgba(2, 121, 71, 1);
+  --dl-color-success-7002: rgba(2, 121, 71, 1);
+  --dl-color-success-7003: rgba(2, 121, 71, 1);
+  --dl-size-size-maxwidth: 1400px;
+  --dl-color-default-white: rgba(255, 255, 255, 1);
+  --dl-color-primaty-black: rgba(0, 0, 0, 1);
+  --dl-color-secondary-red: rgba(169, 81, 81, 1);
+  --dl-radius-radius-round: 50%;
+  --dl-color-default-white1: rgba(255, 255, 255, 1);
+  --dl-color-default-white2: rgba(255, 255, 255, 1);
+  --dl-color-secondary-cyan: rgba(89, 150, 165, 1);
+  --dl-color-secondary-pink: rgba(161, 89, 147, 1);
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-color-secondary-green: rgba(99, 155, 109, 1);
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-color-primaty-cyandark: rgba(43, 120, 139, 1);
+  --dl-color-primaty-greydark: rgba(117, 117, 117, 1);
+  --dl-color-primaty-greyicon: rgba(185, 185, 185, 1);
+  --dl-color-primaty-pinkdark: rgba(148, 80, 105, 1);
+  --dl-color-secondary-orange: rgba(202, 91, 66, 1);
+  --dl-color-secondary-yellow: rgba(196, 162, 76, 1);
+  --dl-space-space-threeunits: 48px;
+  --dl-color-primaty-cyanlight: rgba(195, 220, 227, 1);
+  --dl-color-primaty-greylight: rgba(246, 245, 244, 1);
+  --dl-color-primaty-pinklight: rgba(242, 211, 220, 1);
+  --dl-color-primaty-greymedium: rgba(224, 224, 224, 1);
+  --dl-space-space-oneandhalfunits: 24px;
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.TextBody3 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.TextLabel {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.HeadingsHeading3 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.AdditionalExtra1 {
+  font-size: 40px;
+  font-style: normal;
+  font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal2 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.ButtonButton2 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.TextBody2 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.TextxsMedium2 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.HeadingsHeading4 {
+  font-size: 26px;
+  font-style: normal;
+  font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextxsMedium {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.HeadingsHeading1 {
+  font-size: 56px;
+  font-style: normal;
+  font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.ButtonButton1 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.TextxsMedium1 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.HeadingsHeading2 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.TextsmMedium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.TextsmNormal1 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.TextBody1 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
