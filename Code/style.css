@@ -9,16 +9,32 @@
   --dl-color-gray-5001: rgba(102, 112, 132, 1);
   --dl-color-gray-5002: rgba(102, 112, 132, 1);
   --dl-color-gray-5003: rgba(102, 112, 132, 1);
+  --dl-color-gray-5004: rgba(102, 112, 132, 1);
+  --dl-color-gray-5005: rgba(102, 112, 132, 1);
+  --dl-color-gray-5006: rgba(102, 112, 132, 1);
+  --dl-color-gray-5007: rgba(102, 112, 132, 1);
+  --dl-color-gray-5008: rgba(102, 112, 132, 1);
+  --dl-color-gray-5009: rgba(102, 112, 132, 1);
   --dl-color-gray-7001: rgba(52, 64, 83, 1);
+  --dl-color-gray-7002: rgba(52, 64, 83, 1);
+  --dl-color-gray-7003: rgba(52, 64, 83, 1);
+  --dl-color-gray-7004: rgba(52, 64, 83, 1);
   --dl-color-gray-9001: rgba(15, 23, 40, 1);
+  --dl-color-gray-9002: rgba(15, 23, 40, 1);
+  --dl-color-gray-9003: rgba(15, 23, 40, 1);
+  --dl-color-gray-9004: rgba(15, 23, 40, 1);
+  --dl-color-gray-9005: rgba(15, 23, 40, 1);
   --dl-color-orange-50: rgba(255, 245, 237, 1);
   --dl-size-size-large: 144px;
   --dl-size-size-small: 48px;
   --dl-color-danger-300: #A22020;
   --dl-color-danger-500: #BF2626;
   --dl-color-danger-700: #E14747;
+  --dl-color-gray-50010: rgba(102, 112, 132, 1);
+  --dl-color-gray-50011: rgba(102, 112, 132, 1);
   --dl-color-gray-black: #000000;
   --dl-color-gray-white: #FFFFFF;
+  --dl-color-grey-light: rgba(245, 245, 245, 1);
   --dl-color-orange-700: rgba(195, 50, 10, 1);
   --dl-color-primary-50: rgba(249, 245, 255, 1);
   --dl-color-success-50: rgba(235, 253, 242, 1);
@@ -26,6 +42,8 @@
   --dl-size-size-xlarge: 192px;
   --dl-size-size-xsmall: 16px;
   --dl-space-space-unit: 16px;
+  --dl-color-_gray-white: rgba(255, 255, 255, 1);
+  --dl-color-dark-medium: rgba(78, 78, 78, 1);
   --dl-color-primary-100: #003EB3;
   --dl-color-primary-300: #0074F0;
   --dl-color-primary-500: #14A9FF;
@@ -37,18 +55,34 @@
   --dl-color-success-7001: rgba(2, 121, 71, 1);
   --dl-color-success-7002: rgba(2, 121, 71, 1);
   --dl-color-success-7003: rgba(2, 121, 71, 1);
+  --dl-color-success-7004: rgba(2, 121, 71, 1);
+  --dl-color-success-7005: rgba(2, 121, 71, 1);
+  --dl-color-success-7006: rgba(2, 121, 71, 1);
+  --dl-color-success-7007: rgba(2, 121, 71, 1);
+  --dl-color-success-7008: rgba(2, 121, 71, 1);
+  --dl-color-success-7009: rgba(2, 121, 71, 1);
   --dl-size-size-maxwidth: 1400px;
   --dl-color-default-white: rgba(255, 255, 255, 1);
   --dl-color-primaty-black: rgba(0, 0, 0, 1);
   --dl-color-secondary-red: rgba(169, 81, 81, 1);
+  --dl-color-success-70010: rgba(2, 121, 71, 1);
   --dl-radius-radius-round: 50%;
   --dl-color-default-white1: rgba(255, 255, 255, 1);
   --dl-color-default-white2: rgba(255, 255, 255, 1);
+  --dl-color-default-white3: rgba(255, 255, 255, 1);
+  --dl-color-default-white4: rgba(255, 255, 255, 1);
+  --dl-color-default-white5: rgba(255, 255, 255, 1);
+  --dl-color-default-white6: rgba(255, 255, 255, 1);
+  --dl-color-default-white7: rgba(255, 255, 255, 1);
+  --dl-color-default-white8: rgba(255, 255, 255, 1);
+  --dl-color-default-white9: rgba(255, 255, 255, 1);
   --dl-color-secondary-cyan: rgba(89, 150, 165, 1);
   --dl-color-secondary-pink: rgba(161, 89, 147, 1);
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
+  --dl-color-default-white10: rgba(255, 255, 255, 1);
+  --dl-color-default-white11: rgba(255, 255, 255, 1);
   --dl-color-secondary-green: rgba(99, 155, 109, 1);
   --dl-radius-radius-radius2: 2px;
   --dl-radius-radius-radius4: 4px;
@@ -66,6 +100,7 @@
   --dl-color-primaty-greylight: rgba(246, 245, 244, 1);
   --dl-color-primaty-pinklight: rgba(242, 211, 220, 1);
   --dl-color-primaty-greymedium: rgba(224, 224, 224, 1);
+  --dl-color-secondary-darkcolor: rgba(84, 89, 94, 1);
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {
@@ -131,11 +166,25 @@
   font-weight: 400px;
   font-stretch: normal;
 }
+.TextxsMedium8 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
 .AdditionalExtra1 {
   font-size: 40px;
   font-style: normal;
   font-family: Dela Gothic One;
   font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmMedium3 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
   font-stretch: normal;
 }
 .TextsmNormal2 {
@@ -145,11 +194,25 @@
   font-weight: 400px;
   font-stretch: normal;
 }
+.TextxsMedium4 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
 .ButtonButton2 {
   font-size: 16px;
   font-style: normal;
   font-family: Montserrat;
   font-weight: 700px;
+  font-stretch: normal;
+}
+.TextxsMedium5 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
   font-stretch: normal;
 }
 .TextBody2 {
@@ -166,11 +229,25 @@
   font-weight: 500px;
   font-stretch: normal;
 }
+.TextsmNormal6 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
 .HeadingsHeading4 {
   font-size: 26px;
   font-style: normal;
   font-family: Dela Gothic One;
   font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmMedium2 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
   font-stretch: normal;
 }
 .TextxsMedium {
@@ -201,10 +278,24 @@
   font-weight: 500px;
   font-stretch: normal;
 }
+.TextsmMedium4 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
 .HeadingsHeading2 {
   font-size: 48px;
   font-style: normal;
   font-family: Dela Gothic One;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal9 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
@@ -216,8 +307,50 @@
   text-transform: none;
   text-decoration: none;
 }
+.TextsmNormal3 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextxsMedium7 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.TextsmNormal7 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal5 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal4 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
 .TextsmMedium {
   font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.TextxsMedium3 {
+  font-size: 12px;
   font-style: normal;
   font-family: Inter;
   font-weight: 500px;
@@ -230,11 +363,32 @@
   font-weight: 400px;
   font-stretch: normal;
 }
+.TextxsMedium6 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
 .TextsmNormal {
   font-size: 14px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmNormal8 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextxsMedium9 {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
   font-stretch: normal;
 }
 .Heading {
@@ -244,6 +398,20 @@
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
+}
+.TextsmNormal10 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.TextsmMedium1 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
 }
 .TextBody1 {
   font-size: 18px;
