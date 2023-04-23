@@ -1,0 +1,4016 @@
+.collector-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.collector-collector {
+  width: 100%;
+  height: 1067px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-start;
+  background-color: rgba(0, 175, 102, 1);
+}
+.collector-rectangle1 {
+  top: 106px;
+  left: 120px;
+  width: 1370px;
+  height: 960px;
+  z-index: unset;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px 40px 0 0;
+}
+.collector-group5 {
+  top: 150px;
+  right: 87px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-add {
+  top: 0px;
+  left: 0px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-ellipse20 {
+  top: 0px;
+  right: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-ellipse21 {
+  top: 0px;
+  right: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-image2 {
+  top: 9px;
+  left: 8px;
+  width: 19px;
+  height: 18px;
+  z-index: 1;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text {
+  top: 332px;
+  left: 723px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-navlink {
+  display: contents;
+}
+.collector-frame137 {
+  top: 143px;
+  left: 760px;
+  width: 201.676513671875px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: rgba(210, 210, 210, 1);
+}
+.collector-text002 {
+  top: 9px;
+  left: 49px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.collector-frame133 {
+  top: 143px;
+  left: 514px;
+  width: 204px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.collector-text004 {
+  top: 9px;
+  left: 27px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.collector-frame136 {
+  top: 512px;
+  left: 522px;
+  width: 395px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-rectangle51 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.collector-text006 {
+  top: 9px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.collector-bithreedotsvertical {
+  top: 9.153985023498535px;
+  left: 376.3720703125px;
+  width: 18.62793731689453px;
+  height: 4.129032135009766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.collector-frame132 {
+  top: 512px;
+  left: 522px;
+  width: 395px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-rectangle52 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.collector-text008 {
+  top: 9px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.collector-bithreedotsvertical1 {
+  top: 9.153985023498535px;
+  left: 376.3720703125px;
+  width: 18.62793731689453px;
+  height: 4.129032135009766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.collector-content {
+  top: 379px;
+  left: 134px;
+  width: 1306px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-default-white);
+}
+.collector-column {
+  width: 223px;
+  height: 698px;
+  display: flex;
+  padding: 0 0 278px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.collector-text010 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/08ebde09-c45d-4c1d-bca4-77b7ba5141d3-vsg-200h.undefined");
+}
+.collector-textandsupportingtext {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text012 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text013 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell01 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar1 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/675dc07c-37e1-4ef9-a858-ac0ff4a1f41c-s2g3-200h.undefined");
+}
+.collector-textandsupportingtext1 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  flex-direction: column;
+}
+.collector-text018 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text019 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-textandsupportingtext2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-tablecell02 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar2 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/e1014c2a-5f83-4dbf-a4fa-a26f4e25643e-82tm-200h.undefined");
+}
+.collector-textandsupportingtext3 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text024 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text025 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell03 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar3 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/f0bb81b7-a363-4b9d-a355-7154da59c8b6-34xl-200h.undefined");
+}
+.collector-textandsupportingtext4 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text030 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text031 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell04 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar4 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/faad47cd-73d0-4263-979d-8bf6804e9af4-re1t-200h.undefined");
+}
+.collector-textandsupportingtext5 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text036 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text037 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell05 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar5 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/87be9a5b-fd3d-4a92-a19e-2467ac03a37a-9mz-200h.undefined");
+}
+.collector-textandsupportingtext6 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text042 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text043 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell06 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar6 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/9a8a4206-d56c-4199-9897-08e4e42b3966-dbqf-200h.undefined");
+}
+.collector-textandsupportingtext7 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text048 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text049 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-tablecell07 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-avatar7 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/6df7e07d-9c67-460a-b216-475798962e10-tgid-200h.undefined");
+}
+.collector-textandsupportingtext8 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-text054 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text055 {
+  color: var(--dl-color-gray-50010);
+}
+.collector-column1 {
+  width: 176px;
+  height: 698px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell1 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 60px 12px 34px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text060 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell08 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text062 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell09 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text064 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell10 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text066 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell11 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text068 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell12 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text070 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell13 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.collector-text072 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell14 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text074 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell15 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text076 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-column2 {
+  width: 134px;
+  height: 701px;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell2 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 12px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text078 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell16 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-navlink1 {
+  display: contents;
+}
+.collector-close {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  text-decoration: none;
+}
+.collector-tablecell17 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close01 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.collector-tablecell18 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell19 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done01 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell20 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done02 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell21 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done03 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell22 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done04 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell23 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-done05 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-column3 {
+  width: 175px;
+  height: 701px;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell3 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 46px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text080 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell24 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text082 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-close02 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -70px;
+}
+.collector-tablecell25 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text084 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-close03 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.collector-tablecell26 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text086 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done06 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell27 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text088 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: -56px;
+  margin-bottom: 0;
+}
+.collector-done07 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell28 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text090 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done08 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell29 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text092 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done09 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell30 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text094 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell31 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text096 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done11 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell32 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell33 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell34 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell35 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell36 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell37 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell38 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell39 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell40 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell41 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell42 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell43 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.collector-column4 {
+  height: 701px;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell4 {
+  width: 185px;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 46px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader4 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text098 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell44 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text100 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-close04 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.collector-tablecell45 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text102 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-close05 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -70px;
+}
+.collector-tablecell46 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  padding-right: 16px 24px 16px 42px;
+}
+.collector-text104 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done12 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell47 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text106 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: -56px;
+  margin-bottom: 0;
+}
+.collector-done13 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell48 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text108 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done14 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell49 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text110 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done15 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell50 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text112 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done16 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell51 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-text114 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.collector-done17 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.collector-tablecell52 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell53 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell54 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell55 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell56 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell57 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell58 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell59 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell60 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell61 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell62 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-tablecell63 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.collector-column5 {
+  width: 140px;
+  height: 698px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell5 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader5 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text116 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell64 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-badge01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-frame-badgebase {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(255, 224, 194, 1);
+}
+.collector-frame-dot {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text118 {
+  color: rgba(255, 0, 0, 1);
+  width: 31px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-badge02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-tablecell65 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-badge04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.collector-frame-badgebase1 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(255, 224, 194, 1);
+}
+.collector-frame-dot1 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot1 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text120 {
+  color: rgba(255, 0, 0, 1);
+  width: 31px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-badge05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-tablecell66 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-frame-badgebase2 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.collector-frame-dot2 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot2 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text122 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-badge08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-badge09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-tablecell67 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badge10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-frame-badgebase3 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.collector-frame-dot3 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot3 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text124 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell68 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-badge12 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-frame-badgebase4 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.collector-frame-dot4 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot4 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text126 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell69 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge13 {
+  display: flex;
+  padding: 0 15px 0 0;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-frame-badgebase5 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(234, 255, 0, 1);
+}
+.collector-frame-dot5 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot5 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text128 {
+  color: rgba(3, 3, 3, 1);
+  width: 56px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell70 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-badges5 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge14 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-badges6 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge15 {
+  display: flex;
+  padding: 0 15px 0 0;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-frame-badgebase6 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(234, 255, 0, 1);
+}
+.collector-frame-dot6 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.collector-dot6 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text130 {
+  color: rgba(3, 3, 3, 1);
+  width: 56px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell71 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.collector-badges7 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.collector-badge16 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-frame-badgebase7 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(228, 204, 255, 1);
+}
+.collector-frame-dot7 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.collector-dot7 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-text132 {
+  color: rgba(79, 63, 240, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-badge17 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.collector-column6 {
+  width: 143px;
+  height: 701px;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.collector-tableheadercell6 {
+  width: 185px;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 55px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader6 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text134 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell72 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close06 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector {
+  width: 35px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell73 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close07 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector01 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell74 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close08 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector02 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell75 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close09 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector03 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell76 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector04 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell77 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close11 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector05 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell78 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close12 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector06 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-tablecell79 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-close13 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.collector-vector07 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+}
+.collector-column7 {
+  width: 131px;
+  height: 701px;
+  display: flex;
+  padding: 0 0 147px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.collector-tableheadercell7 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.collector-tableheader7 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.collector-text136 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.collector-tablecell80 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash2 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase01 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit2 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell81 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase02 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash21 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase03 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit21 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell82 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase04 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash22 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase05 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit22 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell83 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase06 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash23 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase07 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit23 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell84 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase08 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash24 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase09 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit24 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell85 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase10 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash25 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase11 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit25 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell86 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.collector-button12 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase12 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash26 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button13 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase13 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit26 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-tablecell87 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.collector-button14 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase14 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-trash27 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-button15 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.collector-frame-buttonbase15 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.collector-edit27 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.collector-text138 {
+  top: 324px;
+  left: 913px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text140 {
+  top: 259px;
+  left: 913px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-icon {
+  top: 54px;
+  left: 37px;
+  width: 50px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-line1 {
+  top: 10px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.collector-line2 {
+  top: 0px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.collector-line3 {
+  top: 20px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.collector-text141 {
+  top: 47px;
+  left: 134px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text143 {
+  top: 151px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text145 {
+  top: 262px;
+  left: 342px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text147 {
+  top: 259px;
+  left: 727px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text148 {
+  top: 259px;
+  left: 178px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text150 {
+  top: 262px;
+  left: 541px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text152 {
+  top: 328px;
+  left: 337px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text154 {
+  top: 328px;
+  left: 178px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text156 {
+  top: 328px;
+  left: 541px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-text158 {
+  top: 283px;
+  color: rgba(111, 111, 111, 1);
+  right: 17px;
+  width: 481px;
+  height: auto;
+  z-index: 100;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-ellipse27 {
+  top: 358px;
+  left: 25px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-navlink2 {
+  display: contents;
+}
+.collector-antdesignhomefilled {
+  top: 150px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.collector-mingcutescheduleline {
+  top: 260px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.collector-group {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-navlink3 {
+  display: contents;
+}
+.collector-vector08 {
+  top: 5px;
+  left: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  text-decoration: none;
+}
+.collector-text160 {
+  top: 43px;
+  left: 1293px;
+  color: rgba(246, 245, 244, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-add1 {
+  top: 43px;
+  left: 1150px;
+  width: 24.005821228027344px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-ellipse201 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-ellipse211 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-group1 {
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-line4 {
+  top: 0px;
+  left: 5px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.collector-line5 {
+  top: 5px;
+  left: 12px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.collector-ellipse25 {
+  top: 37px;
+  left: 1243px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.collector-line11 {
+  top: 30px;
+  left: 1228px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.collector-akariconsbell {
+  top: 43px;
+  left: 1189px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.collector-group1 {
+  top: 2px;
+  left: 3.999645709991455px;
+  width: 16.000280380249023px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.collector-vector09 {
+  top: 2.9999823570251465px;
+  left: 0px;
+  width: 16px;
+  height: 17px;
+  position: absolute;
+}
+.collector-vector10 {
+  top: 0px;
+  left: 6.000354290008545px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.collector-evasearchfill {
+  top: 313px;
+  right: 63px;
+  width: 24px;
+  height: 22px;
+  z-index: 100;
+  position: absolute;
+}
+.collector-sv-icon {
+  top: 370px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.collector-navlink4 {
+  display: contents;
+}
+.collector-image65 {
+  top: 480px;
+  left: 41px;
+  width: 44px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.collector-navlink5 {
+  display: contents;
+}
+.collector-sv-icon1 {
+  top: 590px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.collector-text162 {
+  top: 153px;
+  color: rgba(0, 0, 0, 1);
+  right: 109px;
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.collector-textinput {
+  top: 307px;
+  right: 62px;
+  position: absolute;
+}
+.collector-vector11 {
+  top: 39px;
+  right: 45px;
+  width: 34px;
+  height: 35px;
+  position: absolute;
+}

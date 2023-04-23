@@ -1,0 +1,1046 @@
+.contact-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.contact-contact {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 175, 102, 1);
+}
+.contact-rectangle1 {
+  top: 106px;
+  left: 134px;
+  width: 1357px;
+  height: 960px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px 40px 0 0;
+}
+.contact-icon {
+  top: 54px;
+  left: 37px;
+  width: 50px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-line1 {
+  top: 10px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.contact-line2 {
+  top: 0px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.contact-line3 {
+  top: 20px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.contact-text {
+  top: 47px;
+  left: 134px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-text02 {
+  top: 43px;
+  left: 1293px;
+  color: rgba(246, 245, 244, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-add {
+  top: 43px;
+  left: 1150px;
+  width: 24.005821228027344px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-ellipse20 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.contact-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.contact-group1 {
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-line4 {
+  top: 0px;
+  left: 5px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.contact-line5 {
+  top: 5px;
+  left: 12px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.contact-ellipse25 {
+  top: 37px;
+  left: 1243px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.contact-line11 {
+  top: 30px;
+  left: 1228px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.contact-akariconsbell {
+  top: 43px;
+  left: 1189px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contact-group {
+  top: 2px;
+  left: 3.999645709991455px;
+  width: 16.000280380249023px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-vector {
+  top: 2.9999823570251465px;
+  left: 0px;
+  width: 16px;
+  height: 17px;
+  position: absolute;
+}
+.contact-vector1 {
+  top: 0px;
+  left: 6.000354290008545px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.contact-group5 {
+  top: 323px;
+  left: 655px;
+  width: 783.4910888671875px;
+  height: 815.2229614257812px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-mask-group {
+  top: -34px;
+  left: -5px;
+  width: 783px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 700px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(138, 59, 65, 1);
+}
+.contact-vector1 {
+  top: -67px;
+  left: -4px;
+  width: 841px;
+  height: 750px;
+  position: absolute;
+}
+.contact-text04 {
+  top: 61px;
+  left: 254px;
+  color: rgb(239, 64, 31);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+}
+.contact-text05 {
+  top: 114px;
+  left: 124px;
+  color: rgb(239, 64, 31);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+}
+.contact-text06 {
+  font-family: Times New Roman;
+}
+.contact-text08 {
+  top: 20px;
+  left: 120px;
+  color: rgb(239, 64, 31);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+}
+.contact-text09 {
+  font-family: Times New Roman;
+}
+.contact-textinput {
+  top: 392px;
+  left: 124px;
+  width: 610px;
+  height: 49px;
+  position: absolute;
+}
+.contact-textinput1 {
+  top: 274px;
+  left: 124px;
+  width: 610px;
+  height: 49px;
+  position: absolute;
+}
+.contact-textinput2 {
+  top: 161px;
+  left: 124px;
+  width: 610px;
+  height: 49px;
+  position: absolute;
+}
+.contact-text11 {
+  top: 342px;
+  left: 125px;
+  color: rgb(239, 64, 31);
+  width: 206px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-rectangle55 {
+  right: -2px;
+  width: 744px;
+  bottom: 37px;
+  height: 86px;
+  position: absolute;
+}
+.contact-mask-group1 {
+  right: 1px;
+  width: 744.4910888671875px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  bottom: 51px;
+  height: 85.81295013427734px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(239, 64, 31, 1);
+}
+.contact-text12 {
+  left: 368px;
+  color: rgba(255, 255, 255, 1);
+  width: 144px;
+  bottom: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-vector2 {
+  left: 483px;
+  width: 31px;
+  bottom: 89px;
+  height: 18px;
+  position: absolute;
+}
+.contact-text14 {
+  top: 60px;
+  left: 526px;
+  color: rgb(239, 64, 31);
+  width: var(--dl-size-size-large);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+}
+.contact-text15 {
+  top: 229px;
+  left: 123px;
+  color: rgb(239, 64, 31);
+  width: 206px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-textarea {
+  top: 506px;
+  left: 124px;
+  width: 610px;
+  height: 152px;
+  position: absolute;
+}
+.contact-text16 {
+  top: 465px;
+  left: 125px;
+  color: rgb(239, 64, 31);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-un41 {
+  top: 339px;
+  left: 134px;
+  width: 460px;
+  height: 691px;
+  position: absolute;
+  border-color: transparent;
+}
+.contact-group11 {
+  top: 85px;
+  left: 160.99903869628906px;
+  width: 785.4140625px;
+  height: 274.1036682128906px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-group9 {
+  top: 0px;
+  left: 0.55078125px;
+  width: 784.86328125px;
+  height: 233.10366821289062px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-text17 {
+  top: 40.75514602661133px;
+  color: rgba(239, 64, 31, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text18 {
+  top: 9.899053573608398px;
+  left: 119.6922836303711px;
+  color: rgba(239, 64, 31, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text19 {
+  top: 0.7347345352172852px;
+  left: 214.83395385742188px;
+  color: rgba(239, 64, 31, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text20 {
+  top: 0.5073898434638977px;
+  left: 285.9453430175781px;
+  color: rgba(239, 64, 31, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text21 {
+  top: 2.4900901317596436px;
+  left: 334.373779296875px;
+  color: rgba(239, 64, 31, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text22 {
+  top: 10.806831359863281px;
+  left: 416.2690734863281px;
+  color: rgba(239, 64, 31, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text23 {
+  top: 16.05227279663086px;
+  left: 456.3695983886719px;
+  color: rgba(239, 64, 31, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text24 {
+  top: 25.667316436767578px;
+  left: 518.1060791015625px;
+  color: rgba(239, 64, 31, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text25 {
+  top: 38.75767517089844px;
+  left: 600.1754150390625px;
+  color: rgba(239, 64, 31, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text26 {
+  top: 45.722679138183594px;
+  left: 635.7450561523438px;
+  color: rgba(239, 64, 31, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text27 {
+  top: 47.501827239990234px;
+  left: 709.7973022460938px;
+  color: rgba(239, 64, 31, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-group7 {
+  top: 13px;
+  left: -3px;
+  width: 784.8622436523438px;
+  height: 233.10366821289062px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-text28 {
+  top: 40.75519561767578px;
+  left: 0.00000881926007423317px;
+  color: rgba(197, 160, 152, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text29 {
+  top: 9.899030685424805px;
+  left: 119.69229125976562px;
+  color: rgba(198, 160, 153, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text30 {
+  top: 0.7347484230995178px;
+  left: 214.8345489501953px;
+  color: rgba(198, 160, 153, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text31 {
+  top: 0.5073673725128174px;
+  left: 285.9453430175781px;
+  color: rgba(198, 160, 153, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text32 {
+  top: 2.4901766777038574px;
+  left: 334.373779296875px;
+  color: rgba(198, 160, 153, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text33 {
+  top: 10.806845664978027px;
+  left: 416.2696533203125px;
+  color: rgba(239, 64, 31, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text34 {
+  top: 16.05236053466797px;
+  left: 456.3695983886719px;
+  color: rgba(198, 160, 153, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text35 {
+  top: 25.66738510131836px;
+  left: 518.1060791015625px;
+  color: rgba(198, 160, 153, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text36 {
+  top: 38.75770950317383px;
+  left: 600.1742553710938px;
+  color: rgba(198, 160, 153, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text37 {
+  top: 45.722679138183594px;
+  left: 635.7450561523438px;
+  color: rgba(198, 160, 153, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text38 {
+  top: 47.50187683105469px;
+  left: 709.796142578125px;
+  color: rgba(198, 160, 153, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 145.85523986816406px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Goblin One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-ellipse26 {
+  top: 585px;
+  left: 25px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+}
+.contact-sv-icon {
+  top: 598px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.contact-navlink {
+  display: contents;
+}
+.contact-antdesignhomefilled {
+  top: 150px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.contact-navlink1 {
+  display: contents;
+}
+.contact-image65 {
+  top: 480px;
+  left: 41px;
+  width: 44px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.contact-mingcutescheduleline {
+  top: 260px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contact-group1 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-navlink2 {
+  display: contents;
+}
+.contact-vector3 {
+  top: 5px;
+  left: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  text-decoration: none;
+}
+.contact-navlink3 {
+  display: contents;
+}
+.contact-sv-icon1 {
+  top: 370px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.contact-vector4 {
+  top: 39px;
+  right: 45px;
+  width: 34px;
+  height: 35px;
+  position: absolute;
+}
+.contact-radiobutton {
+  top: 396px;
+  left: 866px;
+  position: absolute;
+}
+.contact-radiobutton1 {
+  top: 394px;
+  left: 1147px;
+  position: absolute;
+}

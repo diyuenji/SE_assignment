@@ -1,0 +1,3850 @@
+.janitor-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.janitor-collector {
+  width: 100%;
+  height: 1067px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-start;
+  background-color: rgba(0, 175, 102, 1);
+}
+.janitor-rectangle1 {
+  top: 106px;
+  left: 120px;
+  width: 1370px;
+  height: 960px;
+  z-index: unset;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px 40px 0 0;
+}
+.janitor-group5 {
+  top: 146px;
+  right: 77px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-add {
+  top: 0px;
+  left: 0px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-ellipse20 {
+  left: 0px;
+  width: 37px;
+  bottom: -2px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-image2 {
+  top: 8px;
+  right: 9px;
+  width: 19px;
+  height: 18px;
+  z-index: 1;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text {
+  top: 332px;
+  left: 723px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-navlink {
+  display: contents;
+}
+.janitor-frame137 {
+  top: 143px;
+  left: 513px;
+  width: 200px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 2px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: rgba(210, 210, 210, 1);
+}
+.janitor-text002 {
+  top: 8px;
+  left: 28px;
+  color: rgb(255, 255, 255);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.janitor-text003 {
+  top: 151px;
+  left: 806px;
+  color: rgb(255, 255, 255);
+  width: 177px;
+  height: auto;
+  z-index: 100;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.janitor-rectangle5 {
+  top: 142px;
+  left: 757px;
+  width: 201.676513671875px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.janitor-frame136 {
+  top: 512px;
+  left: 522px;
+  width: 395px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-rectangle51 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.janitor-text004 {
+  top: 9px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.janitor-bithreedotsvertical {
+  top: 9.153985023498535px;
+  left: 376.3720703125px;
+  width: 18.62793731689453px;
+  height: 4.129032135009766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.janitor-frame132 {
+  top: 512px;
+  left: 522px;
+  width: 395px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-rectangle52 {
+  top: 0px;
+  left: 0px;
+  width: 202px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.janitor-text006 {
+  top: 9px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.janitor-bithreedotsvertical1 {
+  top: 9.153985023498535px;
+  left: 376.3720703125px;
+  width: 18.62793731689453px;
+  height: 4.129032135009766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.janitor-content {
+  top: 379px;
+  left: 134px;
+  width: 1359px;
+  height: 688px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-default-white);
+}
+.janitor-column {
+  width: 223px;
+  height: 100%;
+  display: flex;
+  padding: 0 0 278px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.janitor-text008 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/08ebde09-c45d-4c1d-bca4-77b7ba5141d3-vsg-200h.undefined");
+}
+.janitor-textandsupportingtext {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text010 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell01 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar1 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/675dc07c-37e1-4ef9-a858-ac0ff4a1f41c-s2g3-200h.undefined");
+}
+.janitor-textandsupportingtext1 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  flex-direction: column;
+}
+.janitor-text015 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-textandsupportingtext2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-tablecell02 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar2 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/e1014c2a-5f83-4dbf-a4fa-a26f4e25643e-82tm-200h.undefined");
+}
+.janitor-textandsupportingtext3 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text019 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell03 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar3 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/f0bb81b7-a363-4b9d-a355-7154da59c8b6-34xl-200h.undefined");
+}
+.janitor-textandsupportingtext4 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text024 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell04 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar4 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/faad47cd-73d0-4263-979d-8bf6804e9af4-re1t-200h.undefined");
+}
+.janitor-textandsupportingtext5 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text029 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell05 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar5 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/87be9a5b-fd3d-4a92-a19e-2467ac03a37a-9mz-200h.undefined");
+}
+.janitor-textandsupportingtext6 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text034 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell06 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar6 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/9a8a4206-d56c-4199-9897-08e4e42b3966-dbqf-200h.undefined");
+}
+.janitor-textandsupportingtext7 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text039 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-tablecell07 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-avatar7 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 200px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/6df7e07d-9c67-460a-b216-475798962e10-tgid-200h.undefined");
+}
+.janitor-textandsupportingtext8 {
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-text044 {
+  color: rgb(102, 112, 132);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-column1 {
+  width: 176px;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell1 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 60px 12px 34px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text048 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell08 {
+  width: 100%;
+  height: 80;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text050 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell09 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text051 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell10 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text052 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell11 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text053 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell12 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.janitor-text054 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell13 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text055 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell14 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text056 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell15 {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text057 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-column2 {
+  width: 134px;
+  height: 100%;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell2 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 12px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text058 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell16 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-navlink01 {
+  display: contents;
+}
+.janitor-close {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  text-decoration: none;
+}
+.janitor-tablecell17 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close01 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.janitor-tablecell18 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell19 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done01 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell20 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done02 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell21 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done03 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell22 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done04 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell23 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-done05 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-column3 {
+  width: 175px;
+  height: 100%;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell3 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 46px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text060 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell24 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text062 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-close02 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -70px;
+}
+.janitor-tablecell25 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text064 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-close03 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.janitor-tablecell26 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text066 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done06 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell27 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text068 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: -56px;
+  margin-bottom: 0;
+}
+.janitor-done07 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell28 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text070 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done08 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell29 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text072 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done09 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell30 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text074 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell31 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text076 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done11 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell32 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell33 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell34 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell35 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell36 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell37 {
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell38 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell39 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell40 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell41 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell42 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-tablecell43 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.janitor-column4 {
+  height: 100%;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell4 {
+  width: 185px;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 46px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader4 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text078 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell44 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text079 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-close04 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.janitor-tablecell45 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text081 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-close05 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -70px;
+}
+.janitor-tablecell46 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  padding-right: 16px 24px 16px 42px;
+}
+.janitor-text083 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-tablecell47 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  padding-left: 16px 24px 16px 42px;
+  margin-bottom: 0px;
+}
+.janitor-text084 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-tablecell48 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text085 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done12 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell49 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text086 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done13 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell50 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text087 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done14 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-tablecell51 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-text088 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.janitor-done15 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: transparent;
+}
+.janitor-column5 {
+  width: 140px;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell5 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader5 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text089 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell52 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-badge01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-frame-badgebase {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(255, 224, 194, 1);
+}
+.janitor-frame-dot {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text091 {
+  color: rgba(255, 0, 0, 1);
+  width: 31px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-badge02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-tablecell53 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-badge04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.janitor-frame-badgebase1 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(255, 224, 194, 1);
+}
+.janitor-frame-dot1 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot1 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text093 {
+  color: rgba(255, 0, 0, 1);
+  width: 31px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-badge05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-tablecell54 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-frame-badgebase2 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.janitor-frame-dot2 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot2 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text095 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-badge08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-badge09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-tablecell55 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badge10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-frame-badgebase3 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.janitor-frame-dot3 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot3 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text097 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell56 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-badge12 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-frame-badgebase4 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-success-50);
+}
+.janitor-frame-dot4 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot4 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text099 {
+  color: var(--dl-color-success-70010);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell57 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge13 {
+  display: flex;
+  padding: 0 15px 0 0;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-frame-badgebase5 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(234, 255, 0, 1);
+}
+.janitor-frame-dot5 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot5 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text101 {
+  color: rgba(3, 3, 3, 1);
+  width: 56px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell58 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-badges5 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge14 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-badges6 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge15 {
+  display: flex;
+  padding: 0 15px 0 0;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-frame-badgebase6 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(234, 255, 0, 1);
+}
+.janitor-frame-dot6 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+}
+.janitor-dot6 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text103 {
+  color: rgba(3, 3, 3, 1);
+  width: 56px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell59 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.janitor-badges7 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.janitor-badge16 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-frame-badgebase7 {
+  display: flex;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(228, 204, 255, 1);
+}
+.janitor-frame-dot7 {
+  width: 8px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 6px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.janitor-dot7 {
+  top: 0.9999969601631165px;
+  left: 1.0000121593475342px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-text105 {
+  color: rgba(79, 63, 240, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-badge17 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.janitor-column6 {
+  width: 143px;
+  height: 100%;
+  display: flex;
+  padding: 0 0 150px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.janitor-tableheadercell6 {
+  width: 185px;
+  height: 44px;
+  display: flex;
+  padding: 12px 24px 12px 55px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader6 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text107 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell60 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close06 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink02 {
+  display: contents;
+}
+.janitor-vector {
+  width: 35px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell61 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close07 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink03 {
+  display: contents;
+}
+.janitor-vector01 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell62 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close08 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink04 {
+  display: contents;
+}
+.janitor-vector02 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell63 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close09 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink05 {
+  display: contents;
+}
+.janitor-vector03 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell64 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink06 {
+  display: contents;
+}
+.janitor-vector04 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell65 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close11 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink07 {
+  display: contents;
+}
+.janitor-vector05 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell66 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close12 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink08 {
+  display: contents;
+}
+.janitor-vector06 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-tablecell67 {
+  height: 80px;
+  display: flex;
+  padding: 16px 24px 16px 42px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-close13 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: -13px;
+}
+.janitor-navlink09 {
+  display: contents;
+}
+.janitor-vector07 {
+  width: 36px;
+  height: 21px;
+  position: relative;
+  text-decoration: none;
+}
+.janitor-column7 {
+  width: 131px;
+  height: 100%;
+  display: flex;
+  padding: 0 0 147px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.janitor-tableheadercell7 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-gray-25);
+}
+.janitor-tableheader7 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.janitor-text109 {
+  color: var(--dl-color-gray-50010);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 18px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.janitor-tablecell68 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash2 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase01 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit2 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell69 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase02 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash21 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase03 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit21 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell70 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase04 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash22 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase05 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit22 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell71 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase06 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash23 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase07 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit23 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell72 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase08 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash24 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase09 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit24 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell73 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase10 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash25 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase11 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit25 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell74 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 0px;
+}
+.janitor-button12 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase12 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash26 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button13 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase13 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit26 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-tablecell75 {
+  height: 80px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+}
+.janitor-button14 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase14 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-trash27 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-button15 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.janitor-frame-buttonbase15 {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  justify-content: center;
+}
+.janitor-edit27 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.janitor-text111 {
+  top: 324px;
+  left: 913px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text113 {
+  top: 259px;
+  left: 913px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-icon {
+  top: 54px;
+  left: 37px;
+  width: 50px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-line1 {
+  top: 10px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-line2 {
+  top: 0px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-line3 {
+  top: 20px;
+  left: 10px;
+  width: 30px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-text114 {
+  top: 47px;
+  left: 134px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text116 {
+  top: 151px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text118 {
+  top: 262px;
+  left: 342px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text119 {
+  top: 259px;
+  left: 727px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text120 {
+  top: 259px;
+  left: 178px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text121 {
+  top: 262px;
+  left: 541px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text122 {
+  top: 328px;
+  left: 337px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text124 {
+  top: 328px;
+  left: 178px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text126 {
+  top: 328px;
+  left: 541px;
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-text128 {
+  top: 283px;
+  color: rgba(111, 111, 111, 1);
+  right: 17px;
+  width: 481px;
+  height: auto;
+  z-index: 100;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-ellipse27 {
+  top: 359px;
+  left: 25px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-navlink10 {
+  display: contents;
+}
+.janitor-antdesignhomefilled {
+  top: 150px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.janitor-mingcutescheduleline {
+  top: 260px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.janitor-group {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-navlink11 {
+  display: contents;
+}
+.janitor-vector08 {
+  top: 5px;
+  left: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  text-decoration: none;
+}
+.janitor-text130 {
+  top: 43px;
+  left: 1293px;
+  color: rgba(246, 245, 244, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-add1 {
+  top: 43px;
+  left: 1150px;
+  width: 24.005821228027344px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-ellipse201 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-ellipse211 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-group1 {
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-line4 {
+  top: 0px;
+  left: 5px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-line5 {
+  top: 5px;
+  left: 12px;
+  width: 12px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-ellipse25 {
+  top: 37px;
+  left: 1243px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.janitor-line11 {
+  top: 30px;
+  left: 1228px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.janitor-akariconsbell {
+  top: 43px;
+  left: 1189px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.janitor-group1 {
+  top: 2px;
+  left: 3.999645709991455px;
+  width: 16.000280380249023px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.janitor-vector09 {
+  top: 2.9999823570251465px;
+  left: 0px;
+  width: 16px;
+  height: 17px;
+  position: absolute;
+}
+.janitor-vector10 {
+  top: 0px;
+  left: 6.000354290008545px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.janitor-evasearchfill {
+  top: 313px;
+  right: 63px;
+  width: 24px;
+  height: 22px;
+  z-index: 100;
+  position: absolute;
+}
+.janitor-sv-icon {
+  top: 370px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.janitor-navlink12 {
+  display: contents;
+}
+.janitor-image65 {
+  top: 480px;
+  left: 41px;
+  width: 44px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.janitor-navlink13 {
+  display: contents;
+}
+.janitor-sv-icon1 {
+  top: 590px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  text-decoration: none;
+}
+.janitor-text132 {
+  top: 153px;
+  color: rgba(0, 0, 0, 1);
+  right: 109px;
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.janitor-textinput {
+  top: 307px;
+  right: 62px;
+  position: absolute;
+}
+.janitor-vector11 {
+  top: 38px;
+  right: 73px;
+  width: 34px;
+  height: 35px;
+  position: absolute;
+}
