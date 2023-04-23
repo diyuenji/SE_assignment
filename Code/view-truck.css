@@ -17,15 +17,6 @@
   border-color: transparent;
   background-color: rgba(0, 175, 102, 1);
 }
-.view-truck-rectangle3 {
-  top: 39px;
-  left: 480px;
-  width: 481px;
-  height: 41px;
-  position: absolute;
-  border-color: transparent;
-  border-radius: 65px;
-}
 .view-truck-icon {
   top: 54px;
   left: 37px;
@@ -87,25 +78,6 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.view-truck-text02 {
-  top: 38px;
-  left: 480px;
-  color: rgba(111, 111, 111, 1);
-  width: 481px;
-  height: auto;
-  position: absolute;
-  font-size: 15px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
 .view-truck-epsetting {
   top: 503px;
   left: 223px;
@@ -113,7 +85,7 @@
   height: 40px;
   position: absolute;
 }
-.view-truck-text04 {
+.view-truck-text02 {
   top: 43px;
   left: 1293px;
   color: rgba(246, 245, 244, 1);
@@ -258,13 +230,6 @@
   height: 3px;
   position: absolute;
 }
-.view-truck-evasearchfill {
-  top: 49px;
-  left: 914px;
-  width: 24px;
-  height: 22px;
-  position: absolute;
-}
 .view-truck-rectangle4 {
   top: 106px;
   left: 120px;
@@ -273,6 +238,26 @@
   position: absolute;
   border-color: transparent;
   border-radius: 40px;
+}
+.view-truck-text04 {
+  top: 282px;
+  color: rgba(111, 111, 111, 1);
+  right: 131px;
+  width: 481px;
+  height: auto;
+  z-index: 100;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
 }
 .view-truck-image2 {
   top: 223px;
@@ -292,14 +277,13 @@
 }
 .view-truck-text06 {
   top: 215px;
-  left: 1054px;
+  left: 1025px;
   color: rgb(0, 0, 0);
   width: 208px;
   height: auto;
   position: absolute;
   font-size: 18px;
   align-self: auto;
-  font-style: SemiBold;
   text-align: center;
   font-family: Montserrat;
   font-weight: 600;
@@ -2283,14 +2267,6 @@
   height: 20px;
   position: relative;
 }
-.view-truck-ellipse21 {
-  top: 207px;
-  right: 199px;
-  width: 37px;
-  height: 36px;
-  position: absolute;
-  border-color: transparent;
-}
 .view-truck-text75 {
   top: 278px;
   left: 206px;
@@ -2487,7 +2463,7 @@
 }
 .view-truck-sv-icon {
   top: 370px;
-  left: 34px;
+  left: 41px;
   width: 40px;
   height: 40px;
   position: absolute;
@@ -2498,7 +2474,7 @@
 }
 .view-truck-sv-icon1 {
   top: 590px;
-  left: 36px;
+  left: 41px;
   width: 40px;
   height: 40px;
   position: absolute;
@@ -2521,7 +2497,7 @@
 }
 .view-truck-image62 {
   top: 480px;
-  left: 38px;
+  left: 41px;
   width: 44px;
   height: 39px;
   position: absolute;
@@ -2554,11 +2530,83 @@
   height: 35px;
   position: absolute;
 }
-.view-truck-image23 {
-  top: 216px;
+.view-truck-textinput {
+  top: 308px;
+  right: 179px;
+  position: absolute;
+}
+.view-truck-evasearchfill {
+  top: 316px;
+  right: 189px;
+  width: 24px;
+  height: 22px;
+  z-index: 100;
+  position: absolute;
+}
+.view-truck-group5 {
+  top: 208px;
   right: 208px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.view-truck-add1 {
+  top: 0px;
+  left: 0px;
+  width: 36.61016845703125px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.view-truck-ellipse201 {
+  top: 0px;
+  right: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.view-truck-ellipse21 {
+  top: 0px;
+  right: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.view-truck-image23 {
+  top: 9px;
+  left: 8px;
   width: 19px;
   height: 18px;
+  z-index: 1;
   position: absolute;
   border-color: transparent;
 }
